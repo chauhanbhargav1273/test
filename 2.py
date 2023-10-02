@@ -1,5 +1,5 @@
-l1=[10,20,30,40]
-l2=[100,200,300]
-
-for i in l1 :
-        print(i)
+s1 = ["hello","","Welcomes","","Everyone",""]
+print(s1)
+while ("" in s1):
+   s1.remove("")
+print(s1)
